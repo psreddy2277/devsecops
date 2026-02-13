@@ -6,7 +6,7 @@
             "env": {
                 "organizationID": "540411623009",
                 "region": "us-west-1",
-                "webhookURL": "[https://api4.prismacloud.io/bridgecrew/api/v1/awsCodeCommit/webhook](https://api4.prismacloud.io/bridgecrew/api/v1/awsCodeCommit/webhook)",
+                "webhookURL": "https://api4.prismacloud.io/bridgecrew/api/v1/awsCodeCommit/webhook",
                 "SnsNameForConfirmCustomerDeployment": "cloudformation_events_handler"
             }
         }
